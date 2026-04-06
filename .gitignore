@@ -1,0 +1,6 @@
+.env
+credentials.json
+.streamlit/
+__pycache__/
+.venv/
+.DS_Store
